@@ -4,13 +4,12 @@
 }
 
 .header-content {
-  background-color: rgb(214, 205, 205);
-  height: 80px;
+  background-color: rgb(191, 184, 184);
+  height: 57px;
 }
 
 .nav {
   display: flex;
-  justify-content: space-between;
 }
 
 .nav-link {
@@ -18,24 +17,39 @@
 }
 
 .logo {
-  font-weight: bold;
   font-size: 36px;
-  padding: 0 40px;
-  line-height: 80px;
+  line-height: 57px;
+  color: #FFFFFF;
+  width: 174px;
+  height: 57px;
+  margin-left: 130px;
+  font-weight: 700;
+  opacity: 0.7;
+  position: absolute;
 }
 
 .nav-menu {
   display: flex;
-  margin-right: 40px;
   list-style: none;
+  border-right-width: 150px;
+  margin-left: 800px;
+  left: auto;
+  right: 0px;
+  margin-right: 150px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  position: absolute;
+
 }
 
 .nav-link {
   text-decoration: none;
+  color: white;
 }
 
 .nav-menu-item {
-  font-size: 18px;
+  font-size: 16px;
   margin: 0 10px;
-  line-height: 80px;
+  line-height: 57px;
 }
