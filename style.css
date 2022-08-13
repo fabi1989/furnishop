@@ -8,6 +8,11 @@
   height: 57px;
 }
 
+@font-face {
+  font-family: "Saira-Regular.ttf";
+  src: url(C:\Users\usuario\Code\furnishop\fonts)
+}
+
 .nav {
   display: flex;
 }
