@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: Saira;
+  src: url(Saira.ttf);
+}
+
+.header-content {
+  background-color: rgb(191, 184, 184);
+  height: 57px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.logo {
+  color: #FFFFFF;
+  font-weight: 700;
+  font-size: 36px;
+  font-family: "Saira";
+  line-height: 57px;
+  opacity: 0.7;
+}
+
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 64px;
+
+  list-style: none;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+}
+
+.nav-menu-item {
+  font-size: 16px;
+  line-height: 57px;
+  font-family: "Saira";
+}
