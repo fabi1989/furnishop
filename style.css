@@ -54,3 +54,39 @@
   line-height: 57px;
   font-family: "Saira";
 }
+
+.title-hero {
+  position: absolute;
+  width: 888px;
+  height: 154px;
+  left: 276px;
+  top: 225px;
+}
+
+#title-section {
+  font-family: 'Saira';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 120%;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.subtitle-section {
+  position: absolute;
+  width: 627px;
+  height: 60px;
+  left: 414px;
+  top: 380px;
+}
+
+#subtitle {
+  font-family: 'Saira';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 0.01em;
+}
