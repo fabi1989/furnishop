@@ -90,3 +90,25 @@
   text-align: center;
   letter-spacing: 0.01em;
 }
+
+.container-shopnow {
+  position: absolute;
+  top: 534px;
+  left: 591px;
+  width: 257px;
+  height: 62px;
+  padding: 16px, 80px, 16px, 80px;
+  gap: 10px;
+  color: rgb(149, 146, 146);
+}
+
+#btn-shopnow {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 16px 80px;
+  background: rgb(226, 226, 226, 0.4);
+  backdrop-filter: blur(30px);
+  border-radius: 10px;
+  font-size: 22px;
+}
