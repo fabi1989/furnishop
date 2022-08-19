@@ -54,3 +54,61 @@
   line-height: 57px;
   font-family: "Saira";
 }
+
+.title-hero {
+  position: absolute;
+  width: 888px;
+  height: 154px;
+  left: 276px;
+  top: 225px;
+}
+
+#title-section {
+  font-family: 'Saira';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 120%;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.subtitle-section {
+  position: absolute;
+  width: 627px;
+  height: 60px;
+  left: 414px;
+  top: 380px;
+}
+
+#subtitle {
+  font-family: 'Saira';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 0.01em;
+}
+
+.container-shopnow {
+  position: absolute;
+  display: flex;
+  top: 534px;
+  left: 591px;
+  width: 257px;
+  height: 62px;
+  gap: 10px;
+  color: rgb(252, 250, 250);
+}
+
+#btn-shopnow {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  background: rgba(132, 130, 130, 0.4);
+  backdrop-filter: blur(30px);
+  border-radius: 10px;
+  font-size: 22px;
+  padding: 16px 80px;
+}
