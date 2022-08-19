@@ -112,3 +112,13 @@
   font-size: 22px;
   padding: 16px 80px;
 }
+
+.frame-container {
+  margin: 750px auto;
+  width: 1240px;
+  height: 180px;
+  left: 100px;
+  top: 790px;
+  background: #286f6c;
+  border-radius: 15px;
+}
