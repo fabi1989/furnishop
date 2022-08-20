@@ -56,7 +56,7 @@
 }
 
 .title-hero {
-  position: absolute;
+  margin: 165px auto;
   width: 888px;
   height: 154px;
   left: 276px;
@@ -92,7 +92,7 @@
 }
 
 .container-shopnow {
-  position: absolute;
+  margin: 10px auto;
   display: flex;
   top: 534px;
   left: 591px;
@@ -114,7 +114,7 @@
 }
 
 .frame-container {
-  margin: 750px auto;
+  margin: 135px auto;
   width: 1240px;
   height: 180px;
   left: 100px;
