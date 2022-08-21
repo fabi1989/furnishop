@@ -57,6 +57,7 @@
 
 .title-hero {
   margin: 165px auto;
+  margin-bottom: 10px;
   width: 888px;
   height: 154px;
   left: 276px;
@@ -74,7 +75,7 @@
 }
 
 .subtitle-section {
-  position: absolute;
+  margin: auto;
   width: 627px;
   height: 60px;
   left: 414px;
@@ -92,7 +93,7 @@
 }
 
 .container-shopnow {
-  margin: 10px auto;
+  margin: 30px auto;
   display: flex;
   top: 534px;
   left: 591px;
