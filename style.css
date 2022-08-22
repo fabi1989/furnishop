@@ -78,8 +78,6 @@
   margin: auto;
   width: 627px;
   height: 60px;
-  left: 414px;
-  top: 380px;
 }
 
 #subtitle {
@@ -93,13 +91,10 @@
 }
 
 .container-shopnow {
-  margin: 30px auto;
   display: flex;
-  top: 534px;
-  left: 591px;
+  margin: 30px auto;
   width: 257px;
   height: 62px;
-  gap: 10px;
   color: rgb(252, 250, 250);
 }
 
