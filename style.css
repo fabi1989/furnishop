@@ -174,3 +174,50 @@
   height: 68px;
   font-family: 'Saira';
 }
+
+.iconocheck1 {
+  position: absolute;
+  top: 170px;
+  right: 675px;
+}
+
+.subtitle1 {
+  position: absolute;
+  right: 525px;
+
+  top: 165px;
+  height: 68px;
+  font-family: 'Saira';
+  font-weight: 600;
+  size: 20px;
+}
+
+.parrafo2 {
+  position: absolute;
+  right: 147px;
+  top: 190px;
+
+  font-family: 'Saira';
+}
+
+.iconocheck2 {
+  position: absolute;
+  top: 270px;
+  right: 675px;
+}
+
+.subtitle2 {
+  position: absolute;
+  right: 405px;
+  top: 265px;
+
+  font-family: 'Saira';
+  font-weight: 600;
+}
+
+.parrafo3 {
+  position: absolute;
+  right: 147px;
+  top: 295px;
+  font-family: 'Saira';
+}
