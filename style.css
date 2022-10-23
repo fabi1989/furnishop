@@ -135,8 +135,6 @@
   border: 1px solid #FFFFFF;
 }
 
-/*probando*/
-
 .containerprueba {
   display: flex;
   flex-direction: row;
@@ -153,5 +151,23 @@
 .sectionparrafos {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 10px;
+}
+
+.tituloprueba {
+  font-family: 'Saira';
+}
+
+#subtitulos {
+  font-family: 'saira';
+  font-weight: 700;
+}
+
+.parrafo2 {
+  font-family: 'saira';
+  padding-left: 20px;
+}
+
+.parrafo1 {
+  font-family: 'saira';
 }
