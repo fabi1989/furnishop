@@ -171,3 +171,44 @@
 .parrafo1 {
   font-family: 'saira';
 }
+
+.container__carousel {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin: 30px;
+  padding-top: 50px;
+}
+
+.text__carousel {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  width: 350px;
+  font-family: 'saira';
+}
+
+.boton__carousel {
+  text-decoration: none;
+  font-weight: 500;
+  font-family: 'saira';
+  font-size: 15px;
+  color: black;
+  background: #b5bbbb;
+  border-radius: 2px;
+  padding: 1px;
+  width: 70px;
+  justify-content: center;
+}
+
+.imagenes__carousel {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+#imagenn {
+  width: 200px;
+  height: 265px;
+}
